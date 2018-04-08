@@ -25,6 +25,7 @@
     "express": "4.15.4",
     "extract-text-webpack-plugin": "3.0.0",
     "firebase": "4.2.0",
+    "history": "4.7.2",
     "jest-cli": "^22.3.0",
     "jest-config": "^22.3.0",
     "jest-environment-node": "^22.3.0",
